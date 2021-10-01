@@ -1,0 +1,5 @@
+name:test2
+score:7.000
+value:6.040
+errro:3.222
+
